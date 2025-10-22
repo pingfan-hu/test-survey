@@ -27,6 +27,10 @@ library(surveydown)
 
 ::: {.sd_page id=welcome}
 
+# Hello!
+
+Hello wrorld! Welcome to your first surveydown survey.
+
 # Default Template
 
 Welcome to surveydown! This is a default template of a surveydown survey. It has two pages with one question on each page.
