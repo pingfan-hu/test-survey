@@ -29,7 +29,7 @@ library(surveydown)
 
 # Hello!
 
-Hello wrorld! Welcome to your first surveydown survey.
+Hello world! Welcome to your first surveydown survey.
 
 # Default Template
 
